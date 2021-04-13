@@ -5,7 +5,7 @@
       <p><b>Automation，Pattern Recognition and intelligent system</b></p>
       <p><b>SHENYUAN HONORS COLLEGE OF BEIHANG UNIVERSITY</b></p>
       <p><b>Email：wby@buaa.edu.cn</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="/index.html">中文版</a></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
