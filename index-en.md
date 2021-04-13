@@ -14,14 +14,14 @@
   </tr>
 </table>
 
-### 教育经历
+### Education
 BeiHang University   2018.9 – 2022.6  
 Automation，Pattern Recognition and intelligent system  
 GPA: 3.86   Weighted Average Mark: 92.3  
 
 西安市铁一中学     2012.9 – 2018.6
 
-#### 荣誉奖项：
+#### Honors
 ##### 奖学金：
 校级学习优秀奖学金二等奖(2019,2020)；  
 校级创新创业奖学金二等奖； 
@@ -38,7 +38,7 @@ GPA: 3.86   Weighted Average Mark: 92.3
 2019冯如星——团结奋斗之星成员；  
 海淀区2020年二星级志愿者
 
-### 项目经历
+### Experience
 国家大学生创新创业训练计划 - 负责人  2020.06 - 2021.06
 使用神经网络模型，通过有监督和无监督学习两种方式，研究中国古诗文向现代汉语的翻译
 冯如三号无人机团队成员 2018.10 – 2019.10  
@@ -47,16 +47,16 @@ GPA: 3.86   Weighted Average Mark: 92.3
 使用C语言编写程序，获取并处理多种传感器信息，使用PID控制直立两轮小车和四轮电磁车，让小车完成赛道
 虚拟仿真环境搭建项目  
 利用Unity软件建模，用C#编写实现基础物理实验仿真
-### 技能及语言
-编程语言：  
+### Skills
+Language：  
 Proficient：Python（PyTorch），C，MATLAB  
 Experienced：x86汇编，C#，java，Verilog  
-软件：  
+Software：  
 Proficient：  
 MATLAB/Simulink，SolidWorks，proteus， Public，Gephi，PyCharm, Devc++，Jupyter notebook，Word， Excel，PowerPoint  
 Experienced：  
 unity, COMSOL, NI Multisim, Mega-x, Geneious prime, Quartus, vscode, visual studio, Spyder, IDEA, PS, PR, LR, Flash, LaTeX, Markdown, publisher  
-硬件：  
+Hardware：  
 Experienced:  
 51单片机，ARM架构单片机，8086CPU及相关接口芯片  
 外语：CET-6(545)，TOEFL(86)
